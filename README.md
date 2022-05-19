@@ -1,4 +1,4 @@
-<img src = "C:\Users\EXECLAUDIA-PC\Desktop\cveronferrer\cielo-atardecer-538x218.jpg">
+<img align='middle' src = "./cielo-atardecer-538x218.jpg"> </img>
 
 
 ## Hello World 🌎
