@@ -1,4 +1,4 @@
-<img src="./fondo-developer-colores-jpg"> </img>
+<img src="./fondo-colores-developer.png"></img>
 
 
 ## Hello World 🌎
