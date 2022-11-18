@@ -1,4 +1,4 @@
-<img src="./fondo-colores-developer.png"></img>
+<img src="./fondo-colores-developer.png" style="width:250px"></img>
 
 
 ## Hello World 🌎
