@@ -1,4 +1,4 @@
-<img src="gradienta-PRgmOiN9jIE-unsplash.jpg"></img>
+<img src="developer-colores.jpg"></img>
 
 
 ## Hello World 🌎
