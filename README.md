@@ -1,4 +1,4 @@
-<img src="./fondo-colores-developer.png" style="width:250px"></img>
+<img src="gradienta-PRgmOiN9jIE-unsplash.jpg"></img>
 
 
 ## Hello World 🌎
